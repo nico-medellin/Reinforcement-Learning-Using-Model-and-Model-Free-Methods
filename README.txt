@@ -4,7 +4,7 @@
 
 Overleaf link: https://www.overleaf.com/read/jxqbjryrbgjr#743871
 
-github commit:  
+github commit:  https://github.gatech.edu/gt-omscs-ml/cs-7641-2025-spring-imedellin3/commit/efca8ad854769f10de943e2f1ef9e65f10090644
 
 
 
