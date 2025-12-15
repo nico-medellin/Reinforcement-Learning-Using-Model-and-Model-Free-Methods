@@ -1,6 +1,7 @@
 # Reinforcement Learning Using Model and Model Free Methods
  
 
+Paper Link: https://github.com/nico-medellin/Reinforcement-Learning-Using-Model-and-Model-Free-Methods/blob/main/Reinforcement_Learning_Final_Report.pdf
 
 Overleaf link: https://www.overleaf.com/read/jxqbjryrbgjr#743871
 
