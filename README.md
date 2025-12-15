@@ -1,4 +1,4 @@
-# OMSCS_ML_project_4
+# Reinforcement Learning Using Model and Model Free Methods
  
 
 
